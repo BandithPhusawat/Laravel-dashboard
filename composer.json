@@ -6,7 +6,8 @@
     "keywords": ["Laravel", "Preset", "Argon"],
     "require": {
         "laravel/framework": "^9.0",
-        "laravel/legacy-factories": "^1.0"
+        "laravel/legacy-factories": "^1.0",
+        "laravel/ui": "^4.2"
     },
     "autoload": {
         "psr-4": {
